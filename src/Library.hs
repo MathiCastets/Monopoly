@@ -109,3 +109,4 @@ tanto y como z son funciones de tipo numerico ya que se componene con una funcio
 La funcion recibe una lista de numeros, se le aplica la composicion (+5) . y . z y luego a esa lista se
 "introduce" en el all x para evaluarla. Si todos sus elementos la cumplen, entonces devuelve true, caso contrario false.
 -}
+--CAMBIO DE PRUEBA
