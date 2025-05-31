@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "transformers:lib"
+
+    - path: "./test"
+      component: "transformers:test:transformers-test"
